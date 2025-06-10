@@ -22,7 +22,7 @@ repository               : "anne-yang/qingyun-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/personal_image.jpg"
+  avatar           : "/images/personal_image.jpg"
   name             : "Qingyun (Anne) Yang"
   pronouns         : "she/her/hers"  
   bio              : "Short biography for the left-hand sidebar"
