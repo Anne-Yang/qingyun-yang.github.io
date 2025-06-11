@@ -7,17 +7,16 @@ redirect_from:
   - /resume
 ---
 
-You can also download my CV <a href="/files/CV_Yang_Qingyun.pdf" target="_blank">HERE</a>
+You can also download my CV <a href="{{ site.baseurl }}/files/CV_Yang_Qingyun.pdf" target="_blank">HERE</a>
 
 <object 
-    data="/files/CV_Yang_Qingyun.pdf" 
+    data="{{ site.baseurl }}/files/CV_Yang_Qingyun.pdf" 
     type="application/pdf" 
     width="100%" 
     height="800px">
-  <p>Your browser does not support PDFs. You can download it
-     <a href="/files/CV_Yang_Qingyun.pdf">here</a>.</p>
+  <p>Your browser does not support PDFs. You can download it 
+     <a href="{{ site.baseurl }}/files/CV_Yang_Qingyun.pdf">here</a>.</p>
 </object>
-
 
 <!-- ---
 layout: archive
