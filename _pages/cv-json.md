@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv-json/
@@ -27,14 +27,26 @@ redirect_from:
   }
 </style>
 
-<!-- {% include cv-template.html %} -->
+{% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+</div> -->
 
-<iframe src="{{ base_path }}/files/CV_Yang_Qingyun.pdf" width="100%" height="800px">
-  This browser does not support PDFs. Please download the PDF to view it:
-  <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf">Download PDF</a>.
-</iframe>
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+You can also download my CV <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf">HERE</a>
+
+<object class="pdf" 
+        data="{{ base_path }}/files/CV_Yang_Qingyun.pdf"
+        width="1000"
+        height="800">
+</object>
