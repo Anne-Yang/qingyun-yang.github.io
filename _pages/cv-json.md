@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv-json/
@@ -32,21 +32,4 @@ redirect_from:
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div> -->
-
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-You can also download my CV <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf">HERE</a>
-
-<object class="pdf" 
-        data="{{ base_path }}/files/CV_Yang_Qingyun.pdf"
-        width="1000"
-        height="800">
-</object>
+</div>
