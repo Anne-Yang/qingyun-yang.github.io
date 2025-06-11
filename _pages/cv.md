@@ -74,9 +74,9 @@ redirect_from:
 
 You can view or download my CV here:
 
-[Download CV (PDF)](/files/CV-Yang-Qingyun.pdf)
+[Download CV (PDF)](/files/CV_Yang_Qingyun.pdf)
 
-<iframe src="/files/CV-Yang-Qingyun.pdf" width="100%" height="800px">
+<iframe src="/files/CV_Yang_Qingyun.pdf" width="100%" height="800px">
   This browser does not support PDFs. Please download the PDF to view it:
-  <a href="/files/CV-Yang-Qingyun.pdf">Download PDF</a>.
+  <a href="/files/CV_Yang_Qingyun.pdf">Download PDF</a>.
 </iframe>
