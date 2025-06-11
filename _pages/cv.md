@@ -1,3 +1,20 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+You can also download my CV <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf">HERE</a>
+
+<object class="pdf" 
+        data="{{ base_path }}/files/CV_Yang_Qingyun.pdf"
+        width="1000"
+        height="800">
+</object>
+
 <!-- ---
 layout: archive
 title: "CV"
@@ -62,21 +79,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-You can also download my CV <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf">HERE</a>
-
-<object class="pdf" 
-        data="{{ base_path }}/files/CV_Yang_Qingyun.pdf"
-        width="1000"
-        height="800">
-</object>
-
