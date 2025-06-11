@@ -7,7 +7,8 @@ author_profile: true
 
 ## UNDER REVIEW
 
-1. **Qingyun Yang**\*, Fangjie Li\*, Jiayi Xu, Zixuan Liu, Sindhura Sridhar, Whitney Jin, Jennifer Du, Jon S. Heiselman, Michael I. Miga, Michael Topf, Jie Ying Wu. ["Deformable Registration Framework for Augmented Reality-based Surgical Guidance in Head and Neck Tumor Resection."](https://arxiv.org/abs/2503.08802)
+1. **Qingyun Yang**\*, Fangjie Li\*, Jiayi Xu, Zixuan Liu, Sindhura Sridhar, Whitney Jin, Jennifer Du, Jon S. Heiselman, Michael I. Miga, Michael Topf, Jie Ying Wu. ["Deformable Registration Framework for Augmented Reality-based Surgical Guidance in Head and Neck Tumor Resection."](https://arxiv.org/abs/2503.08802)in International Conference on Medical Image Computing and
+Computer-Assisted Intervention, 2025
 
 2. Dingjie Su, **Qingyun Yang**, Katherine D. Van Schaik, Lucas W. Remedios, Yike Zhang, Thomas Li, Fabien Maldonado, Kim L. Sandler, Benoit M. Dawant, and Bennett A. Landman, “BPPR: A Framework for Content Navigation in Multi-Contrast Body CT Images using Deep Regression Models,”in IEEE Transactions on Biomedical Engineering.
 
