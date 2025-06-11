@@ -12,21 +12,23 @@ redirect_from:
 I am Qingyun (Anne) Yang, an undergraduate at Vanderbilt University majoring in Computer Science and Mathematics with a minor in Data Science. I currently work as a research assistant in Dr. [Jie Ying Wu](https://engineering.vanderbilt.edu/bio/?pid=jieying-wu)’s MAPLE Lab, where I focus on 3D computer vision and biomechanical-based deformable registration in head and neck surgery. Previously, I conducted research in Dr. [Bennett A. Landman](https://www.vanderbilt.edu/vise/visepeople/bennett-landman/)’s MASI Lab on deep regression models and medical imaging. I am also affiliated with the [Vanderbilt Institute for Surgery and Engineering (VISE)](https://www.vanderbilt.edu/vise/) and the [Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/).
 
 Research Interests
-======
+<!-- ====== -->
+------
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
-My research interests lie at the intersection of computer vision, medical image analysis, and surgical guidance, with a focus on real-time, data-driven solutions for clinical applications. Specifically:
+My research interests lie at the intersection of computer vision, medical image analysis, and surgical guidance. Specifically:
 
-- **3D Computer Vision in Healthcare**: Leveraging point cloud processing, depth sensing, and geometric modeling—combined with biomechanical and learning-based frameworks—to reconstruct and align anatomical structures from multimodal data sources in support of deformable registration.
+- **3D Computer Vision in Healthcare**: Leveraging point cloud processing, depth sensing, and geometric modeling to reconstruct and align anatomical structures from multimodal data sources in support of deformable registration.
 
 - **Machine Learning for Medical Imaging**: Exploring deep learning methods for anatomical localization, segmentation, and representation learning across imaging modalities and patient populations.
 
 - **Interactive and Immersive AI**: Designing intuitive AI systems that enhance clinical workflows through augmented reality and immersive interfaces.
 
 News
-======
+<!-- ====== -->
+------
 - [03/2025] My paper ["Deformable Registration Framework for Augmented Reality-based Surgical Guidance in Head and Neck Tumor Resection"](https://arxiv.org/abs/2503.08802) has been released on ArXiv!
 - [02/2025] I gave an oral presentation at SPIE Medical Imaging 2025 on my first-author work, ["Nonrigid Alignment of En Bloc Tissue Specimen to Resection Bed to Enhance Correspondence for Re-Resection Guidance"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/1340811/Nonrigid-alignment-of-en-bloc-tissue-specimen-to-resection-bed/10.1117/12.3047043.short).
 - [01/2025] I am selected as an Honorable Mention for the [2024-2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/)
