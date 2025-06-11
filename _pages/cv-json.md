@@ -30,6 +30,11 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
+
+<iframe src="{{ base_path }}/files/CV_Yang_Qingyun.pdf" width="100%" height="800px">
+  This browser does not support PDFs. Please download the PDF to view it:
+  <a href="{{ base_path }}/files/CV_Yang_Qingyun.pdf">Download PDF</a>.
+</iframe>

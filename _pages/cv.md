@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -61,22 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
-
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-You can view or download my CV here:
-
-[Download CV (PDF)](/files/CV_Yang_Qingyun.pdf)
-
-<iframe src="/files/CV_Yang_Qingyun.pdf" width="100%" height="800px">
-  This browser does not support PDFs. Please download the PDF to view it:
-  <a href="/files/CV_Yang_Qingyun.pdf">Download PDF</a>.
-</iframe>
+* Currently signed in to 43 different slack teams
