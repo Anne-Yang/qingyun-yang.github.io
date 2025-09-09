@@ -21,7 +21,7 @@ My research interests lie at the intersection of computer vision, medical image 
 
 - **3D Computer Vision in Healthcare**: Leveraging point cloud processing, depth sensing, and geometric modeling to reconstruct and align anatomical structures from multimodal data sources in support of deformable registration.
 
-- **Machine Learning for Medical Imaging**: Exploring deep learning methods for anatomical localization across imaging modalities and patient populations. Developing generative modeling frameworks that disentangle anatomical variability from pathology progression to simulate tumor growth and support data-efficient model training.
+- **Deep Learning & Generative Models for Medical Imaging Analysis**: Exploring deep learning methods for anatomical localization across imaging modalities and patient populations. Developing generative modeling frameworks that disentangle anatomical variability from pathology progression to simulate tumor growth and support data-efficient model training.
 
 - **Interactive and Immersive AI**: Designing intuitive AI systems that enhance clinical workflows through augmented reality and immersive interfaces.
 
