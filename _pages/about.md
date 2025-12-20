@@ -21,12 +21,13 @@ My research objective is to develop **fundamental machine learning** methods tha
 
 - **Computer Vision in Surgical Guidance**: Leveraging point cloud processing, depth sensing, and geometric modeling to reconstruct and align anatomical structures from multimodal data sources in support of deformable registration.
 
-- **Deep Learning & Generative Models for Medical Imaging Analysis**: Exploring deep learning methods for anatomical localization across imaging modalities and patient populations. Developing generative modeling frameworks that disentangle anatomical variability from pathology progression to simulate tumor growth and support data-efficient model training.
+- **Deep Learning for Medical Imaging**: Exploring deep learning methods for anatomical localization across imaging modalities and patient populations. Developing predicative modeling frameworks that disentangle anatomical variability from pathology progression to simulate tumor growth and support data-efficient model training.
 
-- **Interactive and Immersive AI**: Designing intuitive AI systems that enhance clinical workflows through augmented reality and immersive interfaces.
+- **Clinical AI**: Designing intuitive AI systems that enhance clinical workflows through augmented reality and immersive interfaces.
 
 News
 ======
+- [12/2025] I am selected as one of **8** undergraduate awardees nationwide to receive the **2025–2026 CRA Outstanding Undergraduate Researcher Award**!
 - [09/2025] I am selected to receive the **MICCAI 2025 NIH Registration Grant**!
 - [07/2025] Our paper ["Deformable Registration Framework for Augmented Reality-based Surgical Guidance in Head and Neck Tumor Resection"](https://arxiv.org/abs/2503.08802) has been invited to an **oral presentation** at MICCAI 2025!
 - [06/2025] Our paper ["Deformable Registration Framework for Augmented Reality-based Surgical Guidance in Head and Neck Tumor Resection"](https://arxiv.org/abs/2503.08802) has been accepted to the 28th International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2025**)!
