@@ -44,7 +44,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
     bottom:0px;
     left:0; right:0;
     height:80px;
-    background: linear-gradient(to bottom, transparent, white);
+    background: linear-gradient(to bottom, transparent, var(--global-bg-color));
     pointer-events:none;
   "></div>
 </div>
@@ -110,7 +110,7 @@ function toggleNews() {
       bottom:0px;
       left:0; right:0;
       height:80px;
-      background: linear-gradient(to bottom, transparent, white);
+      background: linear-gradient(to bottom, transparent, var(--global-bg-color));
       pointer-events:none;
     "></div>
 </div>
@@ -137,7 +137,7 @@ function toggleNews() {
     bottom:0px;
     left:0; right:0;
     height:80px;
-    background: linear-gradient(to bottom, transparent, white);
+    background: linear-gradient(to bottom, transparent, var(--global-bg-color));
     pointer-events:none;
   "></div>
 </div>
@@ -171,7 +171,7 @@ function toggleNews() {
     bottom:0px;
     left:0; right:0;
     height:80px;
-    background: linear-gradient(to bottom, transparent, white);
+    background: linear-gradient(to bottom, transparent, var(--global-bg-color));
     pointer-events:none;
   "></div>
 </div>
