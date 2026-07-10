@@ -26,6 +26,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 <div style="position:relative;">
   <ul id="news-list">
+    <li>[06/2025] Our paper <a href="https://arxiv.org/abs/2606.19767">"Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance"</a> is now available on arXiv.
     <li>[12/2025] I am selected as one of <strong>8</strong> undergraduate awardees nationwide to receive the <strong>2025–2026 CRA Outstanding Undergraduate Researcher Award</strong>!</li>
     <li>[09/2025] I gave an <strong>oral presentation</strong> at MICCAI 2025 on our paper <a href="https://link.springer.com/chapter/10.1007/978-3-032-05114-1_5">"Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection"</a>!</li>
     <li>[09/2025] I am selected to receive the <strong>MICCAI 2025 NIH Registration Grant</strong>!</li>
@@ -33,7 +34,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
     <li>[02/2025] I gave an <strong>oral presentation</strong> at SPIE Medical Imaging 2025 on <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/1340811/Nonrigid-alignment-of-en-bloc-tissue-specimen-to-resection-bed/10.1117/12.3047043.short">"Nonrigid Alignment of En Bloc Tissue Specimen to Resection Bed..."</a>.</li>
     <li>[01/2025] I am selected as an <strong>Honorable Mention</strong> for the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/"><strong>2024-2025 CRA Outstanding Undergraduate Researcher Award</strong></a>!</li>
     <li>[12/2024] I am honored to be the only undergraduate speaker at the <a href="https://www.vanderbilt.edu/vise/symposium-schedule/">VISE 13th Annual Symposium</a>.</li>
-    <li>[10/2024] My paper <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/1340811/Nonrigid-alignment-of-en-bloc-tissue-specimen-to-resection-bed/10.1117/12.3047043.short">"Nonrigid Alignment of En Bloc Tissue Specimen..."</a> has been accepted to SPIE Medical Imaging 2025!</li>
+    <li>[10/2024] Our paper <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/1340811/Nonrigid-alignment-of-en-bloc-tissue-specimen-to-resection-bed/10.1117/12.3047043.short">"Nonrigid Alignment of En Bloc Tissue Specimen..."</a> has been accepted to SPIE Medical Imaging 2025!</li>
     <li>[10/2024] Our paper <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/3047413/Automated-segmentation-of-central-airway-obstruction-from-endoscopic-video-stream/10.1117/12.3047413.short">"Automated segmentation of central airway obstruction..."</a> has been accepted to SPIE Medical Imaging 2025!</li>
     <li>[07/2024] Our paper "Specimen-to-tumor bed deformable registration..." has been accepted to <a href="https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis/12759">MIUA 2024</a>!</li>
     <li>[01/2024] Joined the Machine Automation, Perception, and Learning (MAPLE) Lab advised by Dr. Jie Ying Wu!</li>

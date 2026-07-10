@@ -7,7 +7,7 @@ author_profile: true
 
 ### IN SUBMISSION / UNDER REVIEW
 
-1. **Qingyun Yang**, Jon S. Heiselman, Ayberk Acar, Morgan J. Ringel,  Michael I. Miga, Matthieu Chabanas, Michael C. Topf, and Jie Ying Wu, "Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance" in Journal of Medical Imaging.
+1. **Qingyun Yang**, Jon S. Heiselman, Ayberk Acar, Morgan J. Ringel,  Michael I. Miga, Matthieu Chabanas, Michael C. Topf, and Jie Ying Wu, "[Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance](https://arxiv.org/abs/2606.19767)" in Journal of Medical Imaging.
 
 2. Dingjie Su, **Qingyun Yang**, Katherine D. Van Schaik, Lucas W. Remedios, Yike Zhang, Thomas Li, Fabien Maldonado, Kim L. Sandler, Benoit M. Dawant, and Bennett A. Landman, "BPPR: A Framework for Content Navigation in Multi-Contrast Body CT Images using Deep Regression Models" in IEEE Transactions on Biomedical Engineering.
 
