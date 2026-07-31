@@ -26,7 +26,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 <div style="position:relative;">
   <ul id="news-list">
-    <li>[06/2025] Our paper <a href="https://arxiv.org/abs/2606.19767">"Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance"</a> is now available on arXiv.</li>
+    <li>[06/2026] Our paper <a href="https://arxiv.org/abs/2606.19767">"Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance"</a> is now available on arXiv.</li>
     <li>[12/2025] I am selected as one of <strong>8</strong> undergraduate awardees nationwide to receive the <strong>2025–2026 CRA Outstanding Undergraduate Researcher Award</strong>!</li>
     <li>[09/2025] I gave an <strong>oral presentation</strong> at MICCAI 2025 on our paper <a href="https://link.springer.com/chapter/10.1007/978-3-032-05114-1_5">"Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection"</a>!</li>
     <li>[09/2025] I am selected to receive the <strong>MICCAI 2025 NIH Registration Grant</strong>!</li>
@@ -93,7 +93,7 @@ function toggleNews() {
     <li>
       <strong>Yang, Q.*</strong>, Li, F.*, et al. 
       <a href="https://link.springer.com/chapter/10.1007/978-3-032-05114-1_5">"Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection."</a>
-      <em>MICCAI 2025.</em> <strong>(Oral Presentation, Paper Highlight)</strong>
+      <em>MICCAI 2025.</em> <strong>(Oral Presentation, Highlight Paper)</strong>
     </li>
     <li>
       <strong>Yang, Q.</strong>, Acar, A., et al.
@@ -101,12 +101,12 @@ function toggleNews() {
       <em>SPIE Medical Imaging 2025.</em> <strong>(Oral Presentation)</strong>
     </li>
     <li>
-      Ringel, M., Acar, A., <strong>Yang, Q.</strong>, et al.
-      <a href="https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis/12759">"Specimen-to-tumor bed deformable registration to inform re-resection in otolaryngologic procedures."</a>
-      <em>MIUA 2024.</em>
+      Su, D., <strong>Yang, Q.</strong>, et al.
+      <a href="https://ieeexplore.ieee.org/document/11627423/authors#authors">"BPPR: A Framework for Content Navigation in Multi-Contrast Body CT Images using Deep Regression Models."</a> 
+      <em>IEEE Transactions on Biomedical Engineering, doi: 10.1109/TBME.2026.3718346</em>
     </li>
   </ul>
-  <div id="news-fade" style="
+  <div id="pub-fade" style="
       position:absolute;
       bottom:0px;
       left:0; right:0;
@@ -133,7 +133,7 @@ function toggleNews() {
     <li>Stanford SERGE Scholar</li>
     <li>2025 VISE Fellowship ($8000) </li>
   </ul>
-  <div id="news-fade" style="
+  <div id="awards-fade" style="
     position:absolute;
     bottom:0px;
     left:0; right:0;
