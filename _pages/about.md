@@ -26,7 +26,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 <div style="position:relative;">
   <ul id="news-list">
-    <li>[06/2025] Our paper <a href="https://arxiv.org/abs/2606.19767">"Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance"</a> is now available on arXiv.
+    <li>[06/2025] Our paper <a href="https://arxiv.org/abs/2606.19767">"Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance"</a> is now available on arXiv.</li>
     <li>[12/2025] I am selected as one of <strong>8</strong> undergraduate awardees nationwide to receive the <strong>2025–2026 CRA Outstanding Undergraduate Researcher Award</strong>!</li>
     <li>[09/2025] I gave an <strong>oral presentation</strong> at MICCAI 2025 on our paper <a href="https://link.springer.com/chapter/10.1007/978-3-032-05114-1_5">"Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection"</a>!</li>
     <li>[09/2025] I am selected to receive the <strong>MICCAI 2025 NIH Registration Grant</strong>!</li>
